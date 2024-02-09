@@ -1,4 +1,2 @@
 #!/bin/bash
-=======
-echo " "Best School"
->>>>>>> update_script
+echo "Best School"
